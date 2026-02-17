@@ -1,0 +1,2 @@
+# HCC
+Hierarchical Concept Coding
